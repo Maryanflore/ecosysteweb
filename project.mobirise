@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ECOSYSTE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Factory Implantation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Factory Implantation</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Products.html\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li>"
         },
         {
           "_tags": [
@@ -210,6 +210,9 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "30px"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "header2-5",
@@ -227,10 +230,10 @@
             "overlay": true,
             "overlayOpacity": 0.3,
             "overlayColor": "#000",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true
           },
           "media": {
@@ -256,8 +259,8 @@
             }
           },
           "title": "MEET OUR SENIOR CONSULTANT",
-          "text": "Aristide &nbsp;NDIE &nbsp;is a Tech-entrepreneur.&nbsp;<br>His activities and experiences in Industry have led him to several countries in the world in which he stands out, notably China, Cameroon and Democratic Congo.<br>He wants to share his experience with entrepreneurs and companies wishing to set up business in the countries where he operates.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Ask for a quote</a>"
+          "text": "Aristide &nbsp;Constantin NDIE is a Tech-entrepreneur.&nbsp;<br>&nbsp;He participates in personal development through coaching and support in industrial projects. He has already worked for projects in countries like Cameroon, China and also some countries of the sub-region.<br><br>Its objectives are to participate in the transfer of technology in the sub-region. Innovate in terms of creation and understand the challenges of the current race of the Chinese and world economy.&nbsp;As far as business in China is concerned, its structures in both China and Cameroon can facilitate the stay of its clients by offering them the possibility of being translated or accompanied in their procedures.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Ask for more informations</a>"
         },
         {
           "_inherit": "gallery1",
@@ -327,6 +330,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#41a85f"
             }
           },
           "_tags": [
@@ -370,7 +376,8 @@
               "color": "#ffffff"
             },
             "STRONG": {
-              "color": "#7c7c7c"
+              "color": "#7c7c7c",
+              "font-size": "14px"
             },
             "LI": {
               "color": "#ffffff"
@@ -418,7 +425,7 @@
               "color": "#41a85f"
             }
           },
-          "text2": "+82 156 7553 7615&nbsp;<br>+237 696 675 962",
+          "text2": "+86 156 7553 7615&nbsp;<br>+237 696 675 962",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -430,7 +437,7 @@
               "color": "#41a85f"
             }
           },
-          "text3": "1234 Street, Akwa, Douala<br>Cameroon",
+          "text3": "No 46, 1234 Street, <br>Akwa, Douala<br>Cameroon",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -444,8 +451,8 @@
           },
           "text4": "support@ecosyste.com",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a>&nbsp;Strategy</li><li>Light Projects</li><li>Factory Implantation</li>",
-          "text6": "<strong>Contacts</strong><br>Email: aristide@ecosyste.com<br>Skype: aris.tech<br>LinkedIn: aristide/en<br><br><br><strong>Address</strong><br>1234 Street&nbsp;<br>Akwa, Douala<br>Cameroon",
+          "text5": "<li>Business&nbsp;Strategy</li><li>Light Projects</li><li>Factory Implantation</li>",
+          "text6": "<strong>Contacts</strong><br>Email: aristide@ecosyste.com<br>Skype: arist.tech<br><br><br><br><br><strong>Foreign Address</strong><br><strong><br></strong>China: <br>ningbo bei road xxx",
           "form": {
             "title": "MESSAGE",
             "action": "marianemegne@gmail.com",
@@ -594,7 +601,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ECOSYSTE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Factory Implantation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Factory Implantation</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Products.html\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li>"
         },
         {
           "_styles": {
@@ -831,8 +838,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170628-2000x1500-800x6008.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170628-2000x150012.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170628-2000x1500-800x6000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170628-2000x15004.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -841,8 +848,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170723-1-2000x1500-800x6009.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170723-1-2000x150013.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170723-1-2000x1500-800x6001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170723-1-2000x15005.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -851,8 +858,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/micromsg-2000x1500-800x60010.jpg",
-                "image": "@PROJECT_PATH@/assets/images/micromsg-2000x150014.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/micromsg-2000x1500-800x6002.jpg",
+                "image": "@PROJECT_PATH@/assets/images/micromsg-2000x15006.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -861,8 +868,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1500-800x60011.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x150015.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1500-800x6003.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x15007.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -896,7 +903,8 @@
               "color": "#ffffff"
             },
             "STRONG": {
-              "color": "#7c7c7c"
+              "color": "#7c7c7c",
+              "font-size": "14px"
             },
             "LI": {
               "color": "#ffffff"
@@ -944,7 +952,7 @@
               "color": "#41a85f"
             }
           },
-          "text2": "+82 156 7553 7615&nbsp;<br>+237 696 675 962",
+          "text2": "+86 156 7553 7615&nbsp;<br>+237 696 675 962",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -956,7 +964,7 @@
               "color": "#41a85f"
             }
           },
-          "text3": "1234 Street, Akwa, Douala<br>Cameroon",
+          "text3": "No 46, 1234 Street, <br>Akwa, Douala<br>Cameroon",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -970,8 +978,8 @@
           },
           "text4": "support@ecosyste.com",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a>&nbsp;Strategy</li><li>Light Projects</li><li>Factory Implantation</li>",
-          "text6": "<strong>Contacts</strong><br>Email: aristide@ecosyste.com<br>Skype: aris.tech<br>LinkedIn: aristide/en<br><br><br><strong>Address</strong><br>1234 Street&nbsp;<br>Akwa, Douala<br>Cameroon",
+          "text5": "<li>Business&nbsp;Strategy</li><li>Light Projects</li><li>Factory Implantation</li>",
+          "text6": "<strong>Contacts</strong><br>Email: aristide@ecosyste.com<br>Skype: arist.tech<br><br><br><br><br><strong>Foreign Address</strong><br><strong><br></strong>China: <br>ningbo bei road xxx",
           "form": {
             "title": "MESSAGE",
             "action": "marianemegne@gmail.com",
@@ -1120,7 +1128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ECOSYSTE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Factory Implantation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Factory Implantation</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"true\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Products.html\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li>"
         },
         {
           "_styles": {
@@ -1201,7 +1209,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170912-wa0012-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170912-wa0012-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Plafonnier LED Tri color<br>24 Watts",
                 "active": false
               },
               {
@@ -1211,7 +1219,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170912-wa0009-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170912-wa0009-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Plafonnier LED Tri color<br>24 Watts<br>",
                 "active": false
               },
               {
@@ -1221,7 +1229,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170912-wa0008-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170912-wa0008-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Plafonnier LED Tri color<br>24 Watts<br>",
                 "active": false
               },
               {
@@ -1231,8 +1239,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170912-wa0011-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170912-wa0011-2000x2000.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Plafonnier LED Tri color<br>24 Watts<br>",
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -1241,7 +1249,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170912-wa0013-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170912-wa0013-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Glass Spot LED two light<br>3 Watts",
                 "active": false
               },
               {
@@ -1251,7 +1259,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170912-wa0006-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170912-wa0006-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Glass Spot LED two light<br>3 Watts<br>",
                 "active": false
               },
               {
@@ -1261,7 +1269,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170717-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170717-2000x1125.jpg",
-                "caption": "Type caption here",
+                "caption": "Luxor bulb<br>5-7-9-12 Watts",
                 "active": false
               },
               {
@@ -1271,7 +1279,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170717-1-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170717-1-2000x1125.jpg",
-                "caption": "Type caption here",
+                "caption": "Luxor bulb<br>5-7-9-12 Watts<br>",
                 "active": false
               },
               {
@@ -1281,7 +1289,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1190-800x476.png",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1190.png",
-                "caption": "Type caption here",
+                "caption": "Car security projector<br>10-20-30 Watts",
                 "active": false
               },
               {
@@ -1291,8 +1299,48 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1479-800x591.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1479.jpg",
-                "caption": "Type caption here",
+                "caption": "USB Light<br>1 Watt",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170919-wa0014-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170919-wa0014-2000x1124.jpg",
+                "caption": "Luxor LED Light 3 in 1<br>21 Watts",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170912-wa0004-2000x1412-800x564.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170912-wa0004-2000x1412.jpg",
+                "caption": "Alu Spot&nbsp;<br>3 Watts",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170919-wa0012-2000x1700-800x680.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170919-wa0012-2000x1700.jpg",
+                "caption": "Computer USB Light<br>1 Watt",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170919-wa0030-2000x1712-800x684.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170919-wa0030-2000x1712.jpg",
+                "caption": "Luxor LED Light 3 in 1<br>21 Watts<br>",
+                "active": true
               }
             ],
             "spacing": 1,
@@ -1349,7 +1397,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170912-wa0005-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170912-wa0005-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "SImple bulb long design<br>3-5-7-9-12-15-18-20-30 Watts",
                 "active": false
               },
               {
@@ -1359,7 +1407,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170912-wa0010-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170912-wa0010-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Emergency bulb<br>7-9-12-15 Watts",
                 "active": true
               },
               {
@@ -1369,7 +1417,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/90000804139-2000x1104-800x441.jpg",
                 "image": "@PROJECT_PATH@/assets/images/90000804139-2000x1104.jpg",
-                "caption": "Type caption here",
+                "caption": "T5 - T8<br>9-12-15 Watts",
                 "active": false
               },
               {
@@ -1379,7 +1427,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/solar-traffic-signal-light-led-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/solar-traffic-signal-light-led-2000x1500.jpg",
-                "caption": "Type caption here",
+                "caption": "Solar trafic light",
                 "active": false
               }
             ],
@@ -1389,7 +1437,7 @@
             "bgColor": "#ffffff",
             "filterBgColor": true,
             "fullWidth": false,
-            "showBullets": false
+            "showBullets": true
           },
           "_anchor": "gallery3-z",
           "articleLayout": false,
@@ -1460,7 +1508,7 @@
               "color": "#41a85f"
             }
           },
-          "text2": "+82 156 7553 7615&nbsp;<br>+237 696 675 962",
+          "text2": "+86 156 7553 7615&nbsp;<br>+237 696 675 962",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -1472,7 +1520,7 @@
               "color": "#41a85f"
             }
           },
-          "text3": "1234 Street, Akwa, Douala<br>Cameroon",
+          "text3": "No 46, 1234 Street, <br>Akwa, Douala<br>Cameroon",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -1486,8 +1534,8 @@
           },
           "text4": "support@ecosyste.com",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a>&nbsp;Strategy</li><li>Light Projects</li><li>Factory Implantation</li>",
-          "text6": "<strong>Contacts</strong><br>Email: aristide@ecosyste.com<br>Skype: aris.tech<br>LinkedIn: aristide/en<br><br><br><strong>Address</strong><br>1234 Street&nbsp;<br>Akwa, Douala<br>Cameroon",
+          "text5": "<li>Business&nbsp;Strategy</li><li>Light Projects</li><li>Factory Implantation</li>",
+          "text6": "<strong>Contacts</strong><br>Email: aristide@ecosyste.com<br>Skype: arist.tech<br><br><br><br><br><strong>Foreign Address</strong><br><strong><br></strong>China: <br>ningbo bei road xxx",
           "form": {
             "title": "MESSAGE",
             "action": "marianemegne@gmail.com",

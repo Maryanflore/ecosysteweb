@@ -492,9 +492,15 @@ h6,
 #header2-5 .mbr-section-title {
   font-size: 30px;
 }
+#header2-5 .mbr-section-text {
+  color: #ffffff;
+}
 #social-buttons3-a .mbr-section-title,
 #social-buttons3-a .btn-social {
   color: #fff;
+}
+#social-buttons3-a .mbr-section-title {
+  color: #41a85f;
 }
 #contacts3-9 P {
   color: #41a85f;
@@ -508,6 +514,7 @@ h6,
 }
 #contacts3-9 STRONG {
   color: #7c7c7c;
+  font-size: 14px;
 }
 #contacts3-9 LI {
   color: #ffffff;
@@ -613,6 +620,7 @@ h6,
 }
 #contacts3-f STRONG {
   color: #7c7c7c;
+  font-size: 14px;
 }
 #contacts3-f LI {
   color: #ffffff;
