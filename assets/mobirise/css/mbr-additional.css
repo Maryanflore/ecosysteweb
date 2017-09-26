@@ -1,8 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -489,8 +492,47 @@ h6,
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 20px;
 }
+#header3-12 .mbr-section-title,
+#header3-12 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-12 H3 {
+  color: #41a85f;
+  font-size: 36px;
+}
+#header3-12 SMALL {
+  color: #000000;
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-13 H3 {
+  color: #41a85f;
+  font-size: 36px;
+}
+#header3-13 SMALL {
+  color: #000000;
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+#features4-11 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-11 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-11 H4 {
+  color: #41a85f;
+}
 #header2-5 .mbr-section-title {
   font-size: 30px;
+  color: #41a85f;
 }
 #header2-5 .mbr-section-text {
   color: #ffffff;
@@ -519,6 +561,7 @@ h6,
 #contacts3-9 LI {
   color: #ffffff;
 }
+
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -589,6 +632,8 @@ h6,
 }
 #msg-box8-h .mbr-section-title {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
 }
 #msg-box7-j .mbr-section-title,
 #msg-box7-j .lead p {
@@ -625,6 +670,7 @@ h6,
 #contacts3-f LI {
   color: #ffffff;
 }
+
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -695,6 +741,8 @@ h6,
 }
 #msg-box8-o .mbr-section-title {
   color: #ffffff;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
 }
 #header3-x .mbr-section-title,
 #header3-x .mbr-section-subtitle {
@@ -726,6 +774,7 @@ h6,
 }
 #contacts3-t STRONG {
   color: #7c7c7c;
+  font-size: 14px;
 }
 #contacts3-t LI {
   color: #ffffff;
