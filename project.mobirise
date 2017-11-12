@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ecosyste",
-    "currentPage": "Products.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,10 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 51,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -125,7 +127,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ECOSYSTE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Factory Implantation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Products.html\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Factory Implantation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Products.html\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"#\">FRANCAIS</a></li>"
         },
         {
           "_tags": [
@@ -721,7 +723,7 @@
               "color": "#41a85f"
             }
           },
-          "text3": "No 46, 1234 Street, <br>Akwa, Douala<br>Cameroon",
+          "text3": "Akwa, Douala<br>Cameroon",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -739,7 +741,7 @@
           "text6": "<strong>Contacts</strong><br>Email: aristide@ecosyste.com<br>Skype: arist.tech<br><br><br><span style=\"color: rgb(65, 168, 95); line-height: 1.5;\">Our Partners</span><br>COEFSTRATEGY<br>PROTEC <br>DJ SARL <br>CHINA LED LIGHT<br>ITB battery<br>",
           "form": {
             "title": "MESSAGE",
-            "action": "marianemegne@gmail.com",
+            "action": "aristide@ecosyste.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -795,7 +797,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -885,7 +888,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ECOSYSTE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Factory Implantation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Products.html\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Factory Implantation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Products.html\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"#\">FRANCAIS</a></li>"
         },
         {
           "_styles": {
@@ -1188,7 +1191,7 @@
               "color": "#41a85f"
             }
           },
-          "text3": "No 46, 1234 Street, <br>Akwa, Douala<br>Cameroon",
+          "text3": "Akwa, Douala<br>Cameroon",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -1206,7 +1209,7 @@
           "text6": "<strong>Contacts</strong><br>Email: aristide@ecosyste.com<br>Skype: arist.tech<br><br><br><span style=\"color: rgb(65, 168, 95); line-height: 1.5;\">Our Partners</span><br>COEFSTRATEGY<br>PROTEC <br>DJ SARL <br>CHINA LED LIGHT<br>ITB battery<br>",
           "form": {
             "title": "MESSAGE",
-            "action": "marianemegne@gmail.com",
+            "action": "aristide@ecosyste.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1262,7 +1265,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 3
       },
       "components": [
         {
@@ -1352,7 +1356,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ECOSYSTE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Factory Implantation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Products.html\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Services.html\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Business Strategy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Light Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Services.html\">Factory Implantation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Products.html\" aria-expanded=\"false\">PRODUCTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Products.html\">EcoLight</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"#\">+86 156-7553-7615<br>+237 696-675-962</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"#\">FRANCAIS</a></li>"
         },
         {
           "_styles": {
@@ -1768,7 +1772,7 @@
               "color": "#41a85f"
             }
           },
-          "text3": "No 46, 1234 Street, <br>Akwa, Douala<br>Cameroon",
+          "text3": "Akwa, Douala<br>Cameroon",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -1786,7 +1790,7 @@
           "text6": "<strong>Contacts</strong><br>Email: aristide@ecosyste.com<br>Skype: arist.tech<br><br><br><span style=\"color: rgb(65, 168, 95); line-height: 1.5;\">Our Partners</span><br>COEFSTRATEGY<br>PROTEC <br>DJ SARL <br>CHINA LED LIGHT<br>ITB battery<br>",
           "form": {
             "title": "MESSAGE",
-            "action": "marianemegne@gmail.com",
+            "action": "aristide@ecosyste.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
