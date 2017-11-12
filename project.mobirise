@@ -412,7 +412,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "30px",
+              "font-size": "25px",
               "color": "#41a85f"
             },
             ".mbr-section-text": {
